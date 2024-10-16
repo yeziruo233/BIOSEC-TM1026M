@@ -1,0 +1,5 @@
+## BIOSEC-TM1026M
+
+BIOSEC-TM1026M Fingerprint Sensor Document & Tools
+
+TZM1026_V1.0/TM1026/TS1071M/TA_ComTool
